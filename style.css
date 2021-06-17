@@ -200,7 +200,7 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url("pimg1.gif") no-repeat center;
+    background: url("META.gif") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
